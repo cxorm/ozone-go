@@ -33,4 +33,4 @@ notifications:
   commits:      commits@ozone.apache.org
   issues:       issues@ozone.apache.org
   pullrequests: issues@ozone.apache.org
-  jira_options: link label worklog
+  jira_options: link label worklog commit
