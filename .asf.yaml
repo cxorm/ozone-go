@@ -35,5 +35,5 @@ notifications:
   pullrequests: issues@ozone.apache.org
   jira_options: link label worklog
 
-commits:
+monster:
   jira_options: link label worklog
